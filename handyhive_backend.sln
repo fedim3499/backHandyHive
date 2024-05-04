@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handyhive_backend", "handyhive_backend\handyhive_backend.csproj", "{C139B42C-E6F9-4FF0-A906-555E09F89340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C139B42C-E6F9-4FF0-A906-555E09F89340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C139B42C-E6F9-4FF0-A906-555E09F89340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C139B42C-E6F9-4FF0-A906-555E09F89340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C139B42C-E6F9-4FF0-A906-555E09F89340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0532144B-829F-4E43-B4EF-0EBC4D267F6C}
+	EndGlobalSection
+EndGlobal
